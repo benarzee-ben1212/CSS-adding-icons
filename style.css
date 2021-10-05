@@ -1,0 +1,40 @@
+.button1 {
+    padding: 7px;
+    /* border: 5px solid hotpink; */
+    background-color: rgba(25, 139, 50, 0.562);
+    color: ivory;
+    border-radius: 5px;
+}
+
+.button2 {
+    padding: 7px;
+    /* border: 5px solid hotpink; */
+    background-color: #1773ea;
+    color: ivory;
+    border-radius: 5px;
+}
+
+.button3 {
+    padding: 7px;
+    /* border: 5px solid hotpink; */
+    background-color:#bd3927;
+    color: ivory;
+    border-radius: 5px;
+}
+
+.button4 {
+    padding: 7px;
+    /* border: 5px solid hotpink; */
+    background-color:#3ec24f;
+    color: ivory;
+    border-radius: 5px;
+}
+
+div {
+    background-color: lavender;
+    margin: 30px;
+    width: 400px;
+    height: 50px;
+    text-align:justify;
+    padding: 30px;
+}
